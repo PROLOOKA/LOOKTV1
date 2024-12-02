@@ -1,3 +1,3 @@
 #EXTMPD
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
-http://gcp-dash.ngslbs.com/TVD4001/index.mpd
+http://92.98.105.107:1234/stream/tod/afc1/stream.m3u8?uid=3273369435&u=n314&p=b2ca4c32632ea0aed838cbd24b30911f556f126a33f75f844f675fe391389532
